@@ -22,7 +22,7 @@ This project was created for learning front-end development concepts and improvi
 ---
 
 ## 📸 Project Preview
-![Spotify Clone Screenshot](https://via.placeholder.com/1000x500?text=Spotify+Clone+Preview)  
+![Spotify Clone Screenshot](assets/screenshots/spotify-preview1.png)  
 
 ---
 
