@@ -23,12 +23,12 @@ This project was created for learning front-end development concepts and improvi
 
 ## 📸 Project Preview
 ![Spotify Clone Screenshot](https://via.placeholder.com/1000x500?text=Spotify+Clone+Preview)  
-*(Replace with your actual project screenshot)*  
 
 ---
 
 ## 📽️ Demo Video
-▶️ [[[Watch on YouTube](https://your-youtube-link.com)](https://youtu.be/ikI6-ZIwGOI?si=jr_pqy_Nq9eR2sFC)](https://youtu.be/ikI6-ZIwGOI?si=jr_pqy_Nq9eR2sFC)  
+[![Spotify Clone Demo](https://img.youtube.com/vi/ikI6-ZIwGOI/0.jpg)](https://www.youtube.com/watch?v=ikI6-ZIwGOI)  
+*(Click the thumbnail to watch on YouTube)*    
 ---
 
 ## 📂 Project Structure                                                                                                                                                                                                                                                               
