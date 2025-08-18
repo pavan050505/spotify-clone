@@ -29,25 +29,16 @@ This project was created for learning front-end development concepts and improvi
 
 ## 📽️ Demo Video
 ▶️ [Watch on YouTube](https://your-youtube-link.com)  
-*(Replace with your actual video link)*  
-
 ---
 
-## 🌐 Live Demo
-🔗 [View Live Project](https://your-deployment-link.com)  
-*(Add your Netlify/GitHub Pages link here)*  
-
----
-
-## 📂 Project Structure
-Spotify-Clone/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│ ├── images/
-│ └── songs
-
+## 📂 Project Structure                                                                                                                                                                                                                                                               
+Spotify-Clone/                                                                                                                                                                                                                                                                       
+│── index.html                                                                                                                                                                                                                                                                       
+│── style.css                                                                                                                                                                                                                                                                        
+│── script.js                                                                                                                                                                                                                                                                        
+│── assets/                                                                                                                                                                                                                                                                          
+│ ├── images/                                                                                                                                                                                                                                                                        
+│ └── songs                                                                                                                                                                                                                                                                          
 
 ---
 
