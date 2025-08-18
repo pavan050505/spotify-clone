@@ -28,7 +28,7 @@ This project was created for learning front-end development concepts and improvi
 ---
 
 ## 📽️ Demo Video
-▶️ [Watch on YouTube](https://your-youtube-link.com)  
+▶️ [[[Watch on YouTube](https://your-youtube-link.com)](https://youtu.be/ikI6-ZIwGOI?si=jr_pqy_Nq9eR2sFC)](https://youtu.be/ikI6-ZIwGOI?si=jr_pqy_Nq9eR2sFC)  
 ---
 
 ## 📂 Project Structure                                                                                                                                                                                                                                                               
