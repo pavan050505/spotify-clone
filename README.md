@@ -17,12 +17,7 @@ This project was created for learning front-end development concepts and improvi
 ## 🛠️ Tech Stack
 - **HTML** – Structure  
 - **CSS** – Styling & Layout  
-- **JavaScript** – Functionality & Interactions  
-
----
-
-## 📸 Project Preview
-![Spotify Clone Screenshot](assets/screenshots/spotify-preview1.png)  
+- **JavaScript** – Functionality & Interactions
 
 ---
 
