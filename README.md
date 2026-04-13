@@ -54,8 +54,6 @@ Spotify-Clone/
 
 ✅ User Playlist Support
 
-✅ Backend Integration for Real-Time Streaming
-
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
